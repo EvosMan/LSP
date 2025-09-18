@@ -13,7 +13,7 @@
         <div class="col-md-9">
             <h2>About</h2>
             <div class="d-flex align-items-center mb-4">
-                <img src="{{ asset('img/foto.jpg') }}" alt="Foto" class="rounded-circle me-4" width="120" height="120" style="object-fit:cover; border:2px solid #333;">
+                <img src="{{ asset('img/2141762053-VLu5M.jpg') }}" alt="Foto" class="rounded-circle me-1" width="120" height="120" style="object-fit:cover; border:2px solid #333;">
                 <div>
                     <p><strong>Nama</strong> : M Ariesta Naeva Arya Dhuta</p>
                     <p><strong>Prodi</strong> : D-4 SIB Politeknik Negeri Malang</p>
