@@ -18,7 +18,7 @@
                     <p><strong>Nama</strong> : M Ariesta Naeva Arya Dhuta</p>
                     <p><strong>Prodi</strong> : D-4 SIB Politeknik Negeri Malang</p>
                     <p><strong>NIM</strong> : 2141762053</p>
-                    <p><strong>Tanggal</strong> : 19 September 2003</p>
+                    <p><strong>Tanggal</strong> : 19 September 2025</p>
                 </div>
             </div>
             <p>Aplikasi ini dibuat untuk kebutuhan pengarsipan surat resmi di Kelurahan Karangduren, Kecamatan Pakisaji</p>
